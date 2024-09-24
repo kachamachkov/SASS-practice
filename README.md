@@ -6,3 +6,5 @@
 3. Partials (\_)
 4. Functions
 5. Mixins (define and group styles)
+6. Extend styles
+7. Math
